@@ -1,0 +1,10 @@
+.el-dialog__wrapper .el-dialog .el-dialog__header{
+    padding: 20px 20px 10px;
+    height: 50px;
+    border-bottom: 1px solid lightgray;
+    background: #1E90FF;
+    color: white;
+}
+.el-dialog__wrapper .el-dialog .el-dialog__header .el-dialog__title{line-height:0;color: white;}
+.el-dialog__wrapper .el-dialog .el-dialog__header .el-dialog__headerbtn{top:10px;color: white;}
+.el-dialog__wrapper .el-dialog .el-dialog__header .el-dialog__headerbtn .el-dialog__close{color: white;}
